@@ -216,13 +216,9 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}setppbot*
 ║
 ╠══─⊱ ❰ *THANGKS TO* ❱ ⊰─══➤
+║Chanel Yt: RidhoMaulanaAbdi
 ║
-╠☞ *AFFIS JUNIANTO*
-╠☞ *FADHIL GRAPHY*
-╠☞ *XPTN (AGUNG)*
-╠☞ *MYBOT TEAM*
-║
-╰════─⊱  ⸨ *AFFIS* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *RidhoMaulanaAbdi* ⸩  ⊰─════╯
 `
 }
 
