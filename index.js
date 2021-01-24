@@ -34,9 +34,9 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
+            + 'FN:Ridho Admin\n' 
             + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=628998839509:+62 899-8839-509\n' 
             + 'END:VCARD' 
 prefix = '#'
 blocked = []   
@@ -44,7 +44,7 @@ limitawal = '20'
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297174@s.whatsapp.net"] 
+const ownerNumber = ["628998839509@s.whatsapp.net","628998839509@s.whatsapp.net"] 
 /************************************/
 
        
